@@ -1,6 +1,6 @@
 [MGD]: https://opgabriel.github.io/ISMIR2020/
 
-# Mining Exceptional Collaboration Patterns on Hit Songs ![GitHub repo size](https://img.shields.io/github/repo-size/opgabriel/music-genre-pattersn)
+# Mining Exceptional Collaboration Patterns on Hit Songs ![GitHub repo size](https://img.shields.io/github/repo-size/opgabriel/music-genre-patterns)
 Projeto Final @ Aprendizado Descritivo - DCC/UFMG
 
 ## Resumo
